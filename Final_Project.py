@@ -1,9 +1,8 @@
-# Robert Siminski
-# Assignment: Final Project
+#
+#
 # COMS170-02
-# Assignment Due Date: 04/23/2019
-# Description: This application gets lap times and displays slowest, fastest, and average times
-
+# 
+# Description: This application gets user input and encrypts or decrypts the same input
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Variable			Type			Purpose
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
